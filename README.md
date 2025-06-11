@@ -3,7 +3,7 @@
 
 ## 🧠 Overview
 
-This repository provides automated tools for **training**, **inference**, and **visualization** of pH values from RGB images using neural networks.
+This repository provides automated tools for **training**, **inference**, and **visualization** of pH values from Optode images using neural networks.
 
 Key Capabilities:
 
